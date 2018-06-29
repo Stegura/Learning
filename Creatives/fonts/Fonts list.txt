@@ -1,0 +1,5 @@
+FontAwesome
+Open Sans [regular]
+Myriad Pro [regular]
+Gotham [bold, medium, book]
+Roboto [Bold Condensed]
